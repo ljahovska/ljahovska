@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Anna 🔬</h1>
-  <p><strong>Data Analyst</strong> · Novi Sad, Serbia 🇷🇸</p>
+  <p><strong>Data Analyst</strong> · Novi Sad, Serbia 🌍</p>
 </div>
 
-I hold an MS in Biology and began my career in Science. Along the way, I discovered that working with data is the most exciting part of it! Now, I'm passionate about turning my scientific background into actionable insights for your business 👩‍💻
+I hold an MS in Biology and began my career in Science. Along the way, I discovered that working with data is the most exciting part of it! 
+Now, I'm passionate about turning my scientific background into actionable insights for your business 👩‍💻
 
 
 <!--
